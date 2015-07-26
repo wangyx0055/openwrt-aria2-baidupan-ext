@@ -2,9 +2,9 @@
 检测aria2以停止的资源自动刷新下载地址，应用于百度网盘。
 
 # aria2 RPC APIs
-
+```
 http://192.168.1.1:6800/jsonrpc&
 jsonrpc=2.0&id=client&
 method=system.multicall&
 params=W1t7Im1ldGhvZE5hbWUiOiJhcmlhMi5nZXRWZXJzaW9uIn0seyJtZXRob2ROYW1lIjoiYXJpYTIudGVsbEFjdGl2ZSJ9LHsibWV0aG9kTmFtZSI6ImFyaWEyLnRlbGxXYWl0aW5nIiwicGFyYW1zIjpbMCwxMDAwXX0seyJtZXRob2ROYW1lIjoiYXJpYTIudGVsbFN0b3BwZWQiLCJwYXJhbXMiOlswLDEwMDBdfSx7Im1ldGhvZE5hbWUiOiJhcmlhMi5nZXRHbG9iYWxTdGF0In0seyJtZXRob2ROYW1lIjoiYXJpYTIuZ2V0VmVyc2lvbiJ9LHsibWV0aG9kTmFtZSI6ImFyaWEyLmdldEdsb2JhbE9wdGlvbiJ9LHsibWV0aG9kTmFtZSI6ImFyaWEyLmdldFZlcnNpb24ifV1d
-
+```
